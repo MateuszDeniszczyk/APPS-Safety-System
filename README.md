@@ -23,6 +23,10 @@ position where 0 % is fully released and 100 % is fully applied.
 
 **5.** I encountered an issue where sending data at 100 Hz froze the system. Because of that, I created a function that sends the readings to the Serial Monitor at 4 Hz instead.
 
+## Circuit Diagram
+
+![APPS Safety System Circuit](Docs/Diagram.png)
+
 
 
   
